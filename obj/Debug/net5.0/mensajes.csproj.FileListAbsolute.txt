@@ -1,0 +1,15 @@
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/bin/Debug/net5.0/mensajes.deps.json
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/bin/Debug/net5.0/mensajes.runtimeconfig.json
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/bin/Debug/net5.0/mensajes.runtimeconfig.dev.json
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/bin/Debug/net5.0/mensajes.dll
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/bin/Debug/net5.0/ref/mensajes.dll
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/bin/Debug/net5.0/mensajes.pdb
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/obj/Debug/net5.0/mensajes.csproj.AssemblyReference.cache
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/obj/Debug/net5.0/mensajes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/obj/Debug/net5.0/mensajes.AssemblyInfoInputs.cache
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/obj/Debug/net5.0/mensajes.AssemblyInfo.cs
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/obj/Debug/net5.0/mensajes.csproj.CoreCompileInputs.cache
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/obj/Debug/net5.0/mensajes.dll
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/obj/Debug/net5.0/ref/mensajes.dll
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/obj/Debug/net5.0/mensajes.pdb
+/Users/saulhuitzil/Downloads/mis_programas_cSharp/mensajes/obj/Debug/net5.0/mensajes.genruntimeconfig.cache
